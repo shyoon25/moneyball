@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+ml/model.pkl
+ml/features.json
+*.DS_Store
